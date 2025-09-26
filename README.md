@@ -25,14 +25,6 @@
 - ۵۰٬۰۰۰ ریال قدیم → ۵۰ ریال جدید
 - ۱۲۳٬۴۵۶٬۰۰۰ ریال قدیم → ۱۲۳٬۴۵۶ ریال جدید
 
-کد نمونه
-```c
-float rial(float oldRial) {
-   float newRial = oldRial * 0.001;
-   return newRial;
-}
-```
-
 ## زبان‌های پشتیبانی‌شده
 
 در این ریپازیتوری نمونه‌کدهایی برای زبان‌های زیر ارائه می‌شود:
@@ -53,6 +45,14 @@ float rial(float oldRial) {
 ریپازیتوری را fork کنید.
 تغییرات خود را اضافه کنید.
 Pull Request بزنید.
+
+کد نمونه
+```c
+float rial(float oldRial) {
+   float newRial = oldRial * 0.001;
+   return newRial;
+}
+```
 
 ## لایسنس
 
