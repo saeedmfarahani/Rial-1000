@@ -29,7 +29,7 @@
 
 در این ریپازیتوری نمونه‌کدهایی برای زبان‌های زیر ارائه می‌شود:
 - Python (wip)
-- JavaScript (wip)
+- JavaScript
 - C / C++ (wip)
 - Java (wip)
 - Go (wip)
